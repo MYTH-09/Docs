@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Docs.github.ip
+  baseUrl: MYTH-09.github.io/Docs
   ignorePatterns:
     - private
     - templates
